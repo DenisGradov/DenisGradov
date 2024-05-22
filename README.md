@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Я начинающий веб-разработчик"/>
   <h1>Привет 👋 Меня зовут Денис</h1>
-  <h3>Я начинающий веб-разработчик</h3>
+  <h3>Я веб-разработчик</h3>
    <a href="https://www.youtube.com/channel/UCwwqMgHKAgE7Wi8VEzdWM0Q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
